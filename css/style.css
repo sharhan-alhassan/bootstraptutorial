@@ -1,0 +1,10 @@
+ul {
+	display: flex;
+	padding-top: 20px;
+}
+li {
+	margin: 15px;
+}
+li:first-child {
+	margin-right: auto;
+}
